@@ -1,4 +1,4 @@
-# creds for fhict portal
+# creds for fhict portal - no MFA
 #$cred = Import-Clixml -Path C:\scripts\fontys.cred
 #$vars = @{UserName=$cred.username;Password=$Cred.GetNetworkCredential().Password} #
 
